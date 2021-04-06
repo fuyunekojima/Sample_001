@@ -1,0 +1,16 @@
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.exe
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.deps.json
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.runtimeconfig.json
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.runtimeconfig.dev.json
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.dll
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\ref\PaizaTest.dll
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\bin\Debug\net5.0\PaizaTest.pdb
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.csprojAssemblyReference.cache
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.AssemblyInfoInputs.cache
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.AssemblyInfo.cs
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.csproj.CoreCompileInputs.cache
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.dll
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\ref\PaizaTest.dll
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.pdb
+C:\Users\yatah\RiderProjects\PaizaTest\PaizaTest\obj\Debug\net5.0\PaizaTest.genruntimeconfig.cache
